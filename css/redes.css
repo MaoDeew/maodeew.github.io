@@ -1,0 +1,42 @@
+* {
+	margin:0;
+	padding:0;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+.redes {
+	position: fixed;
+	left: 0;
+	top: 287px;
+	z-index: 2000;
+	font-size: 1.5em;
+
+}
+
+.redes ul {
+	list-style: none;
+}
+
+.redes ul li a {
+	display: inline-block;
+	color: white;
+	background: black;
+	padding: 10px 15px;
+	text-decoration: none;
+	-webkit-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+	transition:all 500ms ease;
+}
+
+.redes ul li .icon-facebook {background:#3b5998; }
+.redes ul li .icon-youtube {background:#b31217; }
+.redes ul li .icon-google {background:#d95232; }
+.redes ul li .icon-twitter {background:#00abf0; }
+.redes ul li .icon-email {background:#666666; }
+
+.redes ul li a:hover {
+	padding: 10px 30px;
+	background: black;
+}

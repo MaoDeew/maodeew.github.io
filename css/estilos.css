@@ -1,0 +1,238 @@
+body {
+	background:#F6F5FA; 
+}
+div.menus{
+	background:white 
+}
+
+div.espacio1{
+	padding: 10px;
+	background:#F6F5FA;
+	height: 755px
+}
+
+div.video-promocional{
+	padding-top: 25px;
+	text-align: center;
+}
+
+div.espacio2{
+	padding: 10px;
+	background:#F6F5FA;
+	height: 590px
+}
+
+div.espacio3{
+	padding: 10px;
+	background:#F6F5FA;
+	height: 450px
+}
+
+div.espacio4{
+	padding: 10px;
+	background:#F6F5FA;
+	height: 550px
+}
+
+div.espacio5{
+	padding: 10px;
+	background:#F6F5FA;
+	height: 570px
+}
+
+div.espacio6{
+	padding: 10px;
+	background:#F6F5FA;
+	height: 120px
+}
+
+div.espacio7{
+	padding: 10px;
+	background:#F6F5FA;
+	height: 220px
+}
+
+
+div.formulario{
+	padding-left: 500px;
+
+}
+
+
+div.linio{
+	padding-left: 46%;
+	display: inline-block;
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
+
+div.texto{
+ 	margin: 10px 100px;
+ 	line-height: 30px
+}
+
+div.construccion{
+	padding: 10px;
+	padding-left: 437px;
+}
+
+div.copyright{
+	background: #000000; /* Old browsers */
+background: -moz-linear-gradient(top, #000000 0%, #04051c 50%, #04051c 51%, #09110e 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000000), color-stop(50%,#04051c), color-stop(51%,#04051c), color-stop(100%,#09110e)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #000000 0%,#04051c 50%,#04051c 51%,#09110e 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #000000 0%,#04051c 50%,#04051c 51%,#09110e 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #000000 0%,#04051c 50%,#04051c 51%,#09110e 100%); /* IE10+ */
+background: linear-gradient(to bottom, #000000 0%,#04051c 50%,#04051c 51%,#09110e 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#09110e',GradientType=0 ); /* IE6-9
+*/
+
+	height: 90px;
+	color:white;
+	font: sans-serif;
+	padding: 60px;
+}
+
+div.copyright2{
+	background: #000000; /* Old browsers */
+background: -moz-linear-gradient(top, #000000 0%, #04051c 50%, #04051c 51%, #09110e 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000000), color-stop(50%,#04051c), color-stop(51%,#04051c), color-stop(100%,#09110e)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #000000 0%,#04051c 50%,#04051c 51%,#09110e 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #000000 0%,#04051c 50%,#04051c 51%,#09110e 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #000000 0%,#04051c 50%,#04051c 51%,#09110e 100%); /* IE10+ */
+background: linear-gradient(to bottom, #000000 0%,#04051c 50%,#04051c 51%,#09110e 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#09110e',GradientType=0 ); /* IE6-9
+*/
+
+	height: 185px;
+	color:white;
+	font: sans-serif;
+	padding: 60px;
+}
+
+div.imagen1 {
+	margin: 5px 0px;
+	height: 10px;
+	padding-left: 450px
+}
+
+div.imagen2 {
+	margin: 5px 0px;
+	height: 10px;
+	padding-left: 200px
+}
+
+div.videofundacion{
+	padding-left: 250px;
+	float: right;
+	margin: 0px 0px;
+	height: 10px;
+	padding-bottom: 100px;
+}
+
+div.productos {
+	text-align: center;
+	padding-top: 5px;
+
+}
+
+ul.producto li{
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+ul.producto li img{
+	border: 2px solid black;
+}
+
+ul.producto li img:hover{
+	border: 2px solid #7f8c8d;
+}
+
+div.comprar {
+	text-align: center;
+	padding-top: 15px;
+}
+
+ul.comprar li{
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+/* Botones */ 
+.button {
+	background:#7f8c8d;
+	color:#fff;
+	display:inline-block;
+	font-size:3em;
+	margin:20px;
+	padding:9px 0;
+	text-align:center;
+	width:200px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #373c3c;
+	font: 125% sans-serif
+}
+
+.button-comprar {
+	background:#7f8c8d;
+	color:black;
+	display:inline-block;
+	font-size:3em;
+	margin:0px;
+	padding:9px 0;
+	text-align:center;
+	width:164px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #373c3c;
+	font: 125% sans-serif
+}
+
+
+.button span {
+	margin-right:5px;
+}
+
+/*Colores Botones */
+
+.button.carrot {
+	background:#e67e22;
+	box-shadow:0px 3px 0px #d35400;
+}
+ 
+.button.red {
+	background:#e74c3c;
+	box-shadow:0px 3px 0px #A33434;
+}
+
+.button.morado {
+	background:#9b59b6;
+	box-shadow:0px 3px 0px #47194D;
+}
+
+.button.yt {
+	background:#b31217;;
+	box-shadow:0px 3px 0px #400B0B;
+}
+
+.button-comprar.pumpkin {
+	background:#d35400;
+	box-shadow:0px 3px 0px #400B0B;
+}
+
+.button:hover {
+	box-shadow:0px 0px 0px;
+	padding-top:7px;
+}
+
+.button-comprar:hover {
+	box-shadow:0px 0px 0px;
+	padding-top:7px;
+}
+
+
+
+
